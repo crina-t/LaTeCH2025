@@ -1,1 +1,2 @@
 # NoDaLiDa2025
+Code based on https://github.com/bigscience-workshop/historical_texts/blob/master/NER/parallel-GPUs/NER_parallel-GPUs-fuzzy.py , as presented in Francesco De Toni, Christopher Akiki, Javier De La Rosa, Clémentine Fourrier, Enrique Manjavacas, Stefan Schweter, and Daniel Van Strien. 2022. Entities, Dates, and Languages: Zero-Shot on Historical Texts with T0. In Proceedings of BigScience Episode #5 -- Workshop on Challenges & Perspectives in Creating Large Language Models, pages 75–83, virtual+Dublin. Association for Computational Linguistics.
